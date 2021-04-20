@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Limani Ratnayake</h1>
 <h3 align="center">A passionate front-end developer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limiratnayake&label=Profile%20views&color=0e75b6&style=flat" alt="limiratnayake" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limiratnayake" alt="limiratnayake" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lpwratnayake" target="blank"><img src="https://img.shields.io/twitter/follow/lpwratnayake?logo=twitter&style=for-the-badge" alt="lpwratnayake" /></a> </p>
 
 -  🌱 I’m currently learning **ReactJs**
@@ -13,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/limi96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="https://codepen.io/limi96" height="30" width="40" /></a>
+<a href="https://codepen.io/limi96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="limi96" height="30" width="40" /></a>
 <a href="https://twitter.com/lpwratnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="lpwratnayake" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/limani-ratnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="limani-ratnayake" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/limani.ratnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="facebook.com/limani.ratnayake" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/__limzo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="instagram.com/__limzo__" height="30" width="40" /></a>
+<a href="https://fb.com/limani.ratnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="limani.ratnayake" height="30" width="40" /></a>
+<a href="https://instagram.com/__limzo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="__limzo__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limiratnayake&show_icons=true&locale=en&layout=compact" alt="limiratnayake" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limiratnayake&show_icons=true&locale=en" alt="limiratnayake" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limiratnayake&" alt="limiratnayake" /></p>
