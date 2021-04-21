@@ -2,15 +2,14 @@
 
 <p align="left"> <a href="https://twitter.com/lpwratnayake" target="blank"><img src="https://img.shields.io/twitter/follow/lpwratnayake?logo=twitter&style=for-the-badge" alt="lpwratnayake" /></a> </p>
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a girl who loves to play games, watch anime, read books and developing!!
 
--  🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
--  🌱 I’m currently learning everything 🤣
--  👯 I’m looking to collaborate with other content creators
--  🥅 2020 Goals: Contribute more to Open Source projects
--  ⚡ Fun fact: I love to draw and play guitar / drums
--  🌱 I’m currently learning **ReactJs**
+-  🌱 I’m currently learning **ReactJs**😍
+-  👯 I’m looking to collaborate with others to learn more
+-  🥅 Goals: learn to built amazing, user-friendly websites/ mobile apps
+-  ⚡ Fun fact: Eat.. Sleep..Code...
 -  📫 How to reach me **lpw.ratnayake@gmail.com**
+-  📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
 ### Connect with me:
 
