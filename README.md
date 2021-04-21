@@ -1,13 +1,18 @@
-### Hi there, I'm Limani - aka [limiRatnayake][website] 👋
+<h1 align="center">Hi there,  👋, I'm Limani Ratnayake</h1>
+<!-- <h3 align="center">A passionate front-end developer from Sri Lanka.</h3> -->
+## I'm a Husband, Father, Developer, and Teacher!!
 
-<h1 align="center">Hi 👋, I'm Limani Ratnayake</h1>
-<h3 align="center">A passionate front-end developer from Sri Lanka.</h3>
+-  🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+-  🌱 I’m currently learning everything 🤣
+-  👯 I’m looking to collaborate with other content creators
+-  🥅 2020 Goals: Contribute more to Open Source projects
+-  ⚡ Fun fact: I love to draw and play guitar / drums
 
 <p align="left"> <a href="https://twitter.com/lpwratnayake" target="blank"><img src="https://img.shields.io/twitter/follow/lpwratnayake?logo=twitter&style=for-the-badge" alt="lpwratnayake" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+-  🌱 I’m currently learning **ReactJs**
 
-- 📫 How to reach me **lpw.ratnayake@gmail.com**
+-  📫 How to reach me **lpw.ratnayake@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
