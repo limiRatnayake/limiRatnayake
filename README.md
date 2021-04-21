@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,  👋, I'm Limani Ratnayake</h1>
-<!-- <h3 align="center">A passionate front-end developer from Sri Lanka.</h3> -->
+
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 -  🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
