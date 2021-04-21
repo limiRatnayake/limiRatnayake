@@ -30,11 +30,13 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limiratnayake&show_icons=true&locale=en&layout=compact" alt="limiratnayake" /></p>
 
 </details>
+<br />
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limiratnayake&show_icons=true&locale=en" alt="limiratnayake" /></p>
 
 </details>
+<br />
 <details>
   <summary>:zap: GitHub Streak Stats</summary>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limiratnayake&" alt="limiratnayake" /></p>
