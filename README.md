@@ -1,5 +1,7 @@
 <h1 align="center">Hi there,  👋, I'm Limani Ratnayake</h1>
 
+<p align="left"> <a href="https://twitter.com/lpwratnayake" target="blank"><img src="https://img.shields.io/twitter/follow/lpwratnayake?logo=twitter&style=for-the-badge" alt="lpwratnayake" /></a> </p>
+
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 -  🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -7,8 +9,6 @@
 -  👯 I’m looking to collaborate with other content creators
 -  🥅 2020 Goals: Contribute more to Open Source projects
 -  ⚡ Fun fact: I love to draw and play guitar / drums
-
-<p align="left"> <a href="https://twitter.com/lpwratnayake" target="blank"><img src="https://img.shields.io/twitter/follow/lpwratnayake?logo=twitter&style=for-the-badge" alt="lpwratnayake" /></a> </p>
 
 -  🌱 I’m currently learning **ReactJs**
 
