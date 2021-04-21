@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/lpwratnayake" target="blank"><img src="https://img.shields.io/twitter/follow/lpwratnayake?logo=twitter&style=for-the-badge" alt="lpwratnayake" /></a> </p>
 
--  🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs**
 
--  📫 How to reach me **lpw.ratnayake@gmail.com**
+- 📫 How to reach me **lpw.ratnayake@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
