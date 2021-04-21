@@ -29,7 +29,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limiratnayake&show_icons=true&locale=en" alt="limiratnayake" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limiratnayake&" alt="limiratnayake" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limiratnayake&" alt="limiratnayake" /></p>
+
+</details>
 
 [twitter]: https://twitter.com/lpwRatnayake
 [facebook]: https://instagram.com/limani.ratnayake
