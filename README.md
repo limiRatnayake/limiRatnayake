@@ -9,7 +9,7 @@
 -  🥅 Goals: learn to built amazing, user-friendly websites/ mobile apps
 -  ⚡ Fun fact: Eat.. Sleep..Code...
 -  📫 How to reach me **lpw.ratnayake@gmail.com**
--  📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+-  📝 [Resume](https://drive.google.com/file/d/1TJavO8lXjB_cBcKodJlxYFN4gxoUJMqd/view?usp=share_link)
 
 ### Connect with me:
 
