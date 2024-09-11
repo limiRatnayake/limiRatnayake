@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,  👋, I'm Limani Ratnayake</h1>
+<h1 align="center">Hi there👋, I'm Limani Ratnayake</h1>
 
 <p align="left"> <a href="https://twitter.com/lpwratnayake" target="blank"><img src="https://img.shields.io/twitter/follow/lpwratnayake?logo=twitter&style=for-the-badge" alt="lpwratnayake" /></a> </p>
 
@@ -6,8 +6,8 @@
 
 -  🌱 I’m currently learning **ReactJs**😍
 -  👯 I’m looking to collaborate with others to learn more
--  🥅 Goals: learn to built amazing, user-friendly websites/ mobile apps
--  ⚡ Fun fact: Eat.. Sleep..Code...
+-  🥅 Goals: learn to build amazing, user-friendly websites/ mobile apps
+-  ⚡ Fun fact: Eat.. Sleep... Code...
 -  📫 How to reach me **lpw.ratnayake@gmail.com**
 -  📝 [Resume](https://drive.google.com/file/d/1TJavO8lXjB_cBcKodJlxYFN4gxoUJMqd/view?usp=share_link)
 
@@ -43,6 +43,4 @@
 </details>
 
 [twitter]: https://twitter.com/lpwRatnayake
-[facebook]: https://instagram.com/limani.ratnayake
-[instagram]: https://instagram.com/__limzo__
 [linkedin]: https://linkedin.com/in/limani-ratnayake
